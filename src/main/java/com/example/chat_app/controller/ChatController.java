@@ -1,6 +1,6 @@
 package com.example.chat_app.controller;
 
-import com.example.websocketchat.entity.ChatMessage;
+import com.example.chat_app.entity.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

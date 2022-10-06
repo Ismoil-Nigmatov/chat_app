@@ -1,6 +1,6 @@
 package com.example.chat_app.config;
 
-import com.example.websocketchat.entity.ChatMessage;
+import com.example.chat_app.entity.ChatMessage;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
